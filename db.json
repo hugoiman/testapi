@@ -1,6 +1,6 @@
 {
   "products" :[
-    {"id":1,"name":"Tiger cat","category":"Crimson"},
+    {"id":1,"name":"Tiger cat","category":"Mauv"},
     {"id":2,"name":"American bighorn sheep","category":"Mauv"},
     {"id":3,"name":"Tarantula","category":"Green"},
     {"id":4,"name":"Pied kingfisher","category":"Puce"},
